@@ -9,17 +9,16 @@ sections:
   label: Artwork Thumbnails
   create: all
   match: "**/*"
-  new_doc_ext: ".png"
+  new_doc_ext: png
 - type: directory
   path: static/images/full
   label: Artwork Full Size Images
   create: all
   match: "**/*"
-  new_doc_ext: ".png"
+  new_doc_ext: png
 - type: document
   path: data/artworks.toml
   label: Artworks
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
