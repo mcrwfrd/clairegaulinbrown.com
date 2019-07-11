@@ -1,0 +1,8 @@
+baseURL = "http://clairegaulinbrown.com"
+languageCode = "en-us"
+title = "Claire Gaulin-Brown"
+theme = "hugo-artist-portfolio"
+
+[Params]
+	author = "Claire Gaulin-Brown"
+	
