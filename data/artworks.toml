@@ -1,7 +1,7 @@
 [[artworks]]
 alt = "Sample Artwork"
 description = "A detailed description of the artwork to impress people"
-image = "static/images/uploads/rabbits.png"
+image = "uploads/rabbits.png"
 thumb = "static/images/uploads/rabbits.png"
 title = "Sample Artwork"
 [[artworks]]
