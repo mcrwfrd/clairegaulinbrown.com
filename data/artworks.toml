@@ -1,12 +1,6 @@
 [[artworks]]
 alt = "Sample Artwork"
 description = "A detailed description of the artwork to impress people"
-image = "uploads/rabbits.png"
-thumb = "uploads/rabbits.png"
-title = "Sample Artwork"
-[[artworks]]
-alt = "Sample Artwork"
-description = "A detailed description of the artwork to impress people"
 image = "uploads/hands.png"
 thumb = "uploads/hands.png"
-title = "Sample Artwork"
+title = "Hands Artwork"
