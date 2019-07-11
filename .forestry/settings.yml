@@ -4,18 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: static/images/thumbs
-  label: Artwork Thumbnails
-  create: all
-  match: "**/*"
-  new_doc_ext: png
-- type: directory
-  path: static/images/full
-  label: Artwork Full Size Images
-  create: all
-  match: "**/*"
-  new_doc_ext: png
 - type: document
   path: data/artworks.toml
   label: Artworks
