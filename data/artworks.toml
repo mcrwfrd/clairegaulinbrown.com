@@ -1,6 +1,13 @@
 [[artworks]]
 title = "Sample Artwork"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
+image = "images/thumbs/zebra.jpg"
+thumb = "images/thumbs/zebra.jpg"
+alt = "Sample Artwork"
+description = "A detailed description of the artwork to impress people"
+
+[[artworks]]
+title = "Sample Artwork"
+image = "images/thumbs/bear.png"
+thumb = "images/thumbs/bear.png"
 alt = "Sample Artwork"
 description = "A detailed description of the artwork to impress people"
