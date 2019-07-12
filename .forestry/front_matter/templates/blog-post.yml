@@ -1,0 +1,22 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: type
+  label: type
+  default: post
+  config:
+    required: false
+  hidden: true
+pages:
+- content/posts/gvhbjnklm.md
