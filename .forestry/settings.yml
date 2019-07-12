@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: content/posts
+  label: Blog Posts
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".md"
 - type: document
   path: data/artworks.toml
   label: Artworks
