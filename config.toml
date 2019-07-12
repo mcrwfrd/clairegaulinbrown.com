@@ -1,8 +1,12 @@
-baseURL = "http://clairegaulinbrown.com"
+# Site settings
+baseurl = "http://clairegaulinbrown.com"
 languageCode = "en-us"
-title = "Claire Gaulin-Brown"
 theme = "hugo-artist-portfolio"
+sectionPagesMenu = "main"
 
-[Params]
+[params]
+	name = "Your name"
+	description = "Your description"
+	email = "your@email.com"
 	author = "Claire Gaulin-Brown"
 	
