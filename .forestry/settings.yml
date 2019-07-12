@@ -7,6 +7,10 @@ sections:
 - type: document
   path: data/artworks.toml
   label: Artworks
+- type: document
+  path: data/illustrations.toml
+  label: Illustration Clients
+  match: "**/*"
 - type: directory
   path: content/posts
   label: Blog Posts
