@@ -5,13 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: content/contact/_index.md
-  label: Contact
-  match: "**/*"
-- type: document
-  path: content/about/_index.md
-  label: About
-  match: "**/*"
+  path: data/artworks.toml
+  label: Artworks
 - type: directory
   path: content/posts
   label: Blog Posts
@@ -19,8 +14,11 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: document
-  path: data/artworks.toml
-  label: Artworks
+  path: content/about/_index.md
+  label: About
+- type: document
+  path: content/contact/_index.md
+  label: Contact
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
