@@ -18,3 +18,5 @@ fields:
   config:
     required: false
   hidden: true
+pages:
+- content/posts/gvhbjnklm.md
