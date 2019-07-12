@@ -8,12 +8,13 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: file
-  name: image
-  label: image
 - type: textarea
   name: description
   label: description
 - type: text
   name: type
   label: type
+  default: post
+  config:
+    required: false
+  hidden: true
