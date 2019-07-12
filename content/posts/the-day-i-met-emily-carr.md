@@ -1,9 +1,8 @@
 +++
 date = "2019-05-12T06:14:34.000+00:00"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-draft = true
 image = "images/blog/post-5.jpg"
-title = "The Day I Met Emily Carr"
+title = "Mixing your own pigments"
 type = "post"
 
 +++
