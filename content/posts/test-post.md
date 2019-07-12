@@ -1,5 +1,5 @@
 ---
-title: TArtist in a Van
+title: Artist in a Van
 date: 2017-04-26T04:22:34+00:00
 image: ''
 description: My partner and I made an exciting life choice to move into a camperized
