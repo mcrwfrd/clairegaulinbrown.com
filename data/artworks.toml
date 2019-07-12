@@ -1,4 +1,10 @@
 [[artworks]]
+alt = ""
+description = "Super sassy artwork for sale"
+image = "uploads/zzzz.jpeg"
+thumb = "uploads/zzzz-thumb.jpeg"
+title = "ZZZZZ"
+[[artworks]]
 alt = "Sample Artwork"
 description = "A detailed description of the artwork to impress people"
 image = "uploads/hands.png"
