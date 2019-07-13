@@ -1,5 +1,11 @@
 [[artworks]]
 alt = ""
+description = ""
+image = "uploads/GoldfinchWEB.jpeg"
+thumb = "uploads/GodfinchThumbnail.jpg"
+title = ""
+[[artworks]]
+alt = ""
 description = "Super sassy artwork for sale"
 image = "uploads/zzzz.jpeg"
 thumb = "uploads/test.png"
