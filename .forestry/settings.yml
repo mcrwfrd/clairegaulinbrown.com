@@ -23,9 +23,8 @@ sections:
   path: content/contact/_index.md
   label: Contact Page
 - type: document
-  path: 'content/illustrations/_index.md '
+  path: content/illustrations/_index.md
   label: Illustration Clients Page
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
