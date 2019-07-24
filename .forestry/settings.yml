@@ -8,6 +8,14 @@ sections:
   path: data/artworks.toml
   label: Artworks
 - type: document
+  path: data/bioPhotos.toml
+  label: Bio Photos
+  match: "**/*"
+- type: document
+  path: data/commissionsPhotos
+  label: Commissions Photos
+  match: "**/*"
+- type: document
   path: data/illustrations.toml
   label: Illustration Clients
 - type: directory
