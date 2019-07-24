@@ -20,3 +20,5 @@ fields:
   config:
     required: false
   hidden: true
+pages:
+- content/posts/going-for-art.md
