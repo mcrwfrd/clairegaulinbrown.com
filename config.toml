@@ -4,6 +4,15 @@ languageCode = "en-us"
 theme = "hugo-artist-portfolio"
 sectionPagesMenu = "main"
 
+[menu]
+
+  [[menu.main]]
+    identifier = "shop"
+    name = "Shop"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "https://shop.clairegaulinbrown.com"
+    weight = 0
+
 [params]
 	name = "Your name"
 	description = "Your description"
