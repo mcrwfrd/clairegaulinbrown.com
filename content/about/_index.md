@@ -10,4 +10,8 @@ Hi! Thank you for visiting my site:) My name is Claire and I am a self taught ar
 
 When I am not painting you can find me running trails, logging carbonless miles surfing along the coast, and cooking delicious plant based meals with my developer husband!
 
+I love hearing from you! Don't hesitate to reach out, seriously:)
+
+xx
+
 #### 
