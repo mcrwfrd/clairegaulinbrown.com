@@ -15,9 +15,11 @@ mediums = "watercolour, pen and ink"
 thumb = "uploads/MidFlight_thumbnail.jpg"
 title = "Mid-flight"
 [[artworks]]
-alt = "Monarch"
-description = ""
+alt = "Instructions for Living A Life"
+description = "“Instructions for living a life.  Pay attention.  Be astonished.  Tell about it.”- Mary Oliver"
+dimensions = "10\"x10\""
 image = "uploads/Monarch.jpg"
+mediums = "Gouache, pen and ink on paper"
 thumb = "uploads/Monarch_Thumbnail.jpg"
 title = "Instructions for Living A Life"
 [[artworks]]
