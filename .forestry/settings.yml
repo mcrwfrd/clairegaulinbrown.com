@@ -10,10 +10,6 @@ sections:
 - type: document
   path: data/illustrations.toml
   label: Illustration Clients
-- type: document
-  path: 'content/illustrations/_index.md '
-  label: Illustration Clients Page
-  match: "**/*"
 - type: directory
   path: content/posts
   label: Blog Posts
@@ -22,10 +18,14 @@ sections:
   new_doc_ext: md
 - type: document
   path: content/about/_index.md
-  label: About
+  label: About Page
 - type: document
   path: content/contact/_index.md
-  label: Contact
+  label: Contact Page
+- type: document
+  path: 'content/illustrations/_index.md '
+  label: Illustration Clients Page
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
