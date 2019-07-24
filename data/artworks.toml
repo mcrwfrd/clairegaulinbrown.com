@@ -1,6 +1,12 @@
 [[artworks]]
 alt = ""
 description = ""
+image = "uploads/Serpent'sCorner.jpg"
+thumb = "uploads/SerpentsCorner_Thumbnail.jpg"
+title = "Serpent's Corner"
+[[artworks]]
+alt = ""
+description = ""
 image = "uploads/Monarch.jpg"
 thumb = "uploads/Monarch_Thumbnail.jpg"
 title = "Instructions for Living A Life"
