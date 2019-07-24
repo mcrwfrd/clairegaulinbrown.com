@@ -6,6 +6,4 @@ authorImage: images/about/author.jpg
 type: post
 
 ---
-Tell a potential client about the kind of illustration work that you do.
-
-Testing from forestry.io
+Please reach out to gaulinbrown@gmail.com If you have a project in mind, and tell me a little bit about how I can help!
