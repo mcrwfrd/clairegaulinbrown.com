@@ -56,8 +56,10 @@ thumb = "uploads/Deer_thumbnail.jpg"
 title = "Artifact"
 [[artworks]]
 alt = "Peregrinations"
-description = ""
+description = " We have a long and winding story. Wandering, decomposing, and regrowing anew. "
+dimensions = "12\"x16\""
 image = "uploads/01GaulinBrownPeregrinations2018.jpg"
+mediums = "Watercolour, pen and ink on paper"
 thumb = "uploads/Peregrinations_thumbnail.jpg"
 title = "Peregrinations"
 [[artworks]]
