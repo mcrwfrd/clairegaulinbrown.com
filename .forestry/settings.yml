@@ -5,16 +5,18 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: content/commissions/_index.md
+  label: Commissions Page
+  match: "**/*"
+- type: document
   path: data/artworks.toml
   label: Artworks
 - type: document
   path: data/bioPhotos.toml
   label: Bio Photos
-  match: "**/*"
 - type: document
   path: data/commissionsPhotos
   label: Commissions Photos
-  match: "**/*"
 - type: document
   path: data/illustrations.toml
   label: Illustration Clients
