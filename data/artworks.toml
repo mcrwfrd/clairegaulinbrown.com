@@ -41,7 +41,7 @@ image = "uploads/ForestsNearBy.jpg"
 thumb = "uploads/ForestsNearby_Thumnail.jpg"
 title = "Forests Near By"
 [[artworks]]
-alt = ""
+alt = "Artifact"
 description = ""
 image = "uploads/05GaulinBrownArtifact2018.jpg"
 thumb = "uploads/Deer_thumbnail.jpg"
