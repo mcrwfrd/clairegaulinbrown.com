@@ -5,15 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: 'content/illustrations/_index.md '
-  label: Illustration Clients
-  match: "**/*"
-- type: document
   path: data/artworks.toml
   label: Artworks
 - type: document
   path: data/illustrations.toml
   label: Illustration Clients
+- type: document
+  path: 'content/illustrations/_index.md '
+  label: Illustration Clients Page
+  match: "**/*"
 - type: directory
   path: content/posts
   label: Blog Posts
