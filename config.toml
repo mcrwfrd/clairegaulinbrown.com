@@ -14,8 +14,8 @@ sectionPagesMenu = "main"
     weight = 0
 
 [params]
-	name = "Your name"
-	description = "Your description"
-	email = "your@email.com"
+	name = "Claire Gaulin-Broen"
+	description = "Artist and Illustrator"
+	email = "gaulinbrown@gmail.com"
 	author = "Claire Gaulin-Brown"
 	
