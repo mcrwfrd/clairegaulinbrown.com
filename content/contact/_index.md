@@ -6,7 +6,7 @@ authorImage: images/about/author.jpg
 type: post
 
 ---
-Please get in touch:)
+Please get in touch :)
 
 You can reach me by email at gaulinbrown@gmail.com
 
