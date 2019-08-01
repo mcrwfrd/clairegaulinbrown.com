@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://clairegaulinbrown.com"
+baseurl = ""
 languageCode = "en-us"
 theme = "hugo-artist-portfolio"
 sectionPagesMenu = "main"
@@ -14,7 +14,7 @@ sectionPagesMenu = "main"
     weight = 0
 
 [params]
-	name = "Claire Gaulin-Broen"
+	name = "Claire Gaulin-Brown"
 	description = "Artist and Illustrator"
 	email = "gaulinbrown@gmail.com"
 	author = "Claire Gaulin-Brown"
