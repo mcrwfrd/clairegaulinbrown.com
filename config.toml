@@ -1,7 +1,7 @@
 # Site settings
 baseurl = ""
 languageCode = "en-us"
-theme = "hugo-artist-portfolio"
+theme = "hugo-frances-theme"
 sectionPagesMenu = "main"
 
 [menu]
