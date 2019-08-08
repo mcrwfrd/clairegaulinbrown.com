@@ -1,7 +1,7 @@
 # Site settings
 baseurl = ""
 languageCode = "en-us"
-theme = "hugo-frances-theme"
+theme = "frances"
 sectionPagesMenu = "main"
 
 [menu]
