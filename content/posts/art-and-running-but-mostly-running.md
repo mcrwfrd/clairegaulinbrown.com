@@ -1,7 +1,6 @@
 +++
 date = "2019-08-13T13:49:40+00:00"
 description = ""
-draft = true
 title = "Art and Running, But Mostly Running"
 type = "post"
 
