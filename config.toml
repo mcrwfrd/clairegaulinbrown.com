@@ -10,7 +10,7 @@ sectionPagesMenu = "main"
     identifier = "shop"
     name = "Shop"
     pre = "<i class='fa fa-heart'></i>"
-    url = "https://shop.clairegaulinbrown.com"
+    url = "https://shopclairegaulinbrown.bigcartel.com/"
     weight = 0
 
 [params]
