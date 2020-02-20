@@ -1,10 +1,18 @@
 [[artworks]]
-alt = ""
+alt = "Magpie Tendencies"
 description = ""
-dimensions = ""
+dimensions = "11\"x15\""
+image = ""
+mediums = "Gouache with Ink on Paper"
+thumb = ""
+title = "Magpie Tendencies"
+[[artworks]]
+alt = "Moth III"
+description = ""
+dimensions = "11\"x15\""
 image = "uploads/MothIII.jpg"
-mediums = ""
-thumb = "uploads/"
+mediums = "Gouache with Ink on Paper"
+thumb = "uploads/Moth_Thumbnail.jpg"
 title = "Moth III"
 [[artworks]]
 alt = "Moth II"
