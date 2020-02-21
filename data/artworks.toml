@@ -1,12 +1,4 @@
 [[artworks]]
-alt = "Death of Vanitas Diptych "
-description = "The more I research our past relationship with nature I feel a complicated mixture of sadness and hope. I read about humans and non-humans connecting through their souls, but also a slow objectification of nature through history. Smalls wins, but also large deaths. I’m grappling."
-dimensions = "40\"x60\""
-image = "uploads/DeathOfVanitas.jpg"
-mediums = "Gouache with Ink on Paper"
-thumb = "uploads/DeathOfVanitas_Thumbnail.jpg"
-title = "Death of Vanitas"
-[[artworks]]
 alt = "Past Inhabitants"
 description = "This painting feels like pieces of a dream, calling to mind journeys of the past. I keep looping back to small marks I’ve left on landscapes in small ways, and in turn how a landscape shapes my existence by leaving small traces in me with memories. This painting speaks to what’s lost and what’s gained by being folded into these associated memories. I have my own embedded into this piece, and I feel loss and hope. I hope you feel something too."
 dimensions = "42\"x 60\""
@@ -14,6 +6,14 @@ image = "uploads/CGAULINBROWN_PastInhabitants.jpg"
 mediums = "Gouache with Ink on Paper"
 thumb = "uploads/PastHinhabitants_Thumbnail.jpg"
 title = "Past Inhabitants"
+[[artworks]]
+alt = "Death of Vanitas Diptych "
+description = "The more I research our past relationship with nature I feel a complicated mixture of sadness and hope. I read about humans and non-humans connecting through their souls, but also a slow objectification of nature through history. Smalls wins, but also large deaths. I’m grappling."
+dimensions = "40\"x60\""
+image = "uploads/DeathOfVanitas.jpg"
+mediums = "Gouache with Ink on Paper"
+thumb = "uploads/DeathOfVanitas_Thumbnail.jpg"
+title = "Death of Vanitas"
 [[artworks]]
 alt = "Magpie Tendencies"
 description = ""
