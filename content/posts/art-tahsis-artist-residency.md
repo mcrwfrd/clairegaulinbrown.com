@@ -26,3 +26,5 @@ From these experiences I made “Speculative View” featuring Humpback whales a
 Overall it was such a wonderful experience to spend time in a fairly remote location, with wonderfully kind people who care about nature in similar ways, and who solidified ideas of making things from scratch, cooking, growing, mending etc. That is inspiring in its own way that warrants its own blog post.
 
 I hope to be able to go back at some point for another couple of weeks, and keep exploring. I learned the power of an artist residency, giving an artist time and space, and place, to think, experiment, fail, succeed etc. What a gift.
+
+![](/uploads/Hey @friendsofpacificwild Followers its @clairegaulinbrown (1).jpg)![](/uploads/Hey @friendsofpacificwild Followers its @clairegaulinbrown (2).jpg)![](/uploads/Hey @friendsofpacificwild Followers  @clairegaulinbrown.jpg)
