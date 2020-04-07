@@ -12,3 +12,5 @@ Some years I’ve run consistently 5 or 6 times a week, and other years it's jus
 Running right now is a simple part of my routine and it definitely informs my artistic practice in small ways. I finish up with work, change and run out the door. I don’t wear a watch, or listen to music. I just run, and think and breathe. I think about art and plan my future paintings, and get weird ideas. It’s all little stuff, but it feels so good. 45 minutes to an hour later of running in the trees, I’m home, and fresh and a little more present I think.
 
 If you would like to read more succinct words about creative work and running, get your hands on a copy of “What I Talk about When I Talk About Running” by Haruki Murakami.
+
+![](/uploads/35155918_263552634204389_3301475222233808896_n(1).jpg)
