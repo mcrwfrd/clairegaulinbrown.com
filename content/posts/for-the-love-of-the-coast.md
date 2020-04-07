@@ -1,5 +1,5 @@
 +++
-date = "2019-08-14T21:51:32+00:00"
+date = 2019-08-14T21:51:32Z
 description = ""
 title = "For The Love of The Coast"
 type = "post"
@@ -9,4 +9,6 @@ When Michael and I lived in BC two years ago, we became linked to the coast life
 
 Coastal wolves are genetically distinct from the typical wolf that you imagine, and they scavenge along the waters, hunt seals, and feed on herring eggs. Wolves leave kills for ravens to benefit from, which ravens then spread some of those nutrients into the ecosystem, much like bears flocking to rivers to feast during the salmon run. BC is home to the black bear that carries the gene for the mystical Spirit Bear that can be found in the Great Bear Rainforest. These are just a few connections to be found in the large scale painting.
 
-I'm only a layman ecologist, but by making these paintings I get to learn about all the wonderful relationships that creatures have with their environments, which in turn make me a better steward for our environment both locally and on a more global scale. 
+I'm only a layman ecologist, but by making these paintings I get to learn about all the wonderful relationships that creatures have with their environments, which in turn make me a better steward for our environment both locally and on a more global scale.
+
+![](/uploads/Coastal Ver2 web.jpg)
