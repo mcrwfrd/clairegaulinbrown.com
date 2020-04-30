@@ -11,7 +11,7 @@ The residency was overlooking a large ocean inlet, that is not very wide so it s
 
 While I was there I played around with ideas of different flora taking on a different ambiance, depending on where they were. I looked at plants in logging cut blocks and felt their sharpness, the feeling of being unwelcome. I then walked in forested areas, and felt the soft edges and welcoming angles of the same plants that filled the forest floor with their abundance and succulence. The difference? Cutblocks feel inherently harsh, unwelcoming, because of what they represent, not because of the end product. This was an idea that was sloshing around in my brain, that I tried to create a piece with, that unfortunately will not see the light of day, but the idea still intrigues me and I think is worth pursuing at another time.
 
-![](/uploads/83CDEC46-8694-4F92-9D5A-37788BE004D0.jpg)
+![](/uploads/SkulTahsis.jpg)
 
 ![](/uploads/Hey @friendsofpacificwild Followers its @clairegaulinbrown.jpg)
 
