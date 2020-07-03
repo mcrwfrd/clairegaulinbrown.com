@@ -12,5 +12,3 @@ Time passed and rejection felt more like a wonderful opportunity. Something that
 This month marks the beginning of what will be a year fully dedicated to my art and illustration business. I actually woke up on my first day nervous to sit down, just like I always get when I start a new job. I’m learning to trust my skills so that I can grow them to be even better than ever before, and am constantly in awe of the trust and support of friends and family and strangers who think I could possibly do this.
 
 I’m going for it like my life depends on it.
-
-![](/uploads/65654222_362891117733154_2383106904407144466_n(1).jpg)
