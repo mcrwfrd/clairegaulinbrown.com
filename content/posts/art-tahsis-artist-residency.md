@@ -5,7 +5,7 @@ title = "Art Tahsis: Artist Residency"
 type = "post"
 
 +++
-![](/uploads/IMG_5478.jpg)In September I spent two weeks in Tahsis, British Columbia, for my very first artist residency! Tahsis is located on Vancouver Island, about 7 hours North west from Victoria. The town is very small, with a couple of hundred people, and is accessed by 60 K of unpaved logging roads. Thankfully for me and the trees, loggers in the area were on strike while I was there so I didn’t encounter any trucks on my slow drive into town.
+In September I spent two weeks in Tahsis, British Columbia, for my very first artist residency! Tahsis is located on Vancouver Island, about 7 hours North west from Victoria. The town is very small, with a couple of hundred people, and is accessed by 60 K of unpaved logging roads. Thankfully for me and the trees, loggers in the area were on strike while I was there so I didn’t encounter any trucks on my slow drive into town.
 
 The residency was overlooking a large ocean inlet, that is not very wide so it sort of looks like you are overlooking a lake. I often started my morning by walking down to the water’s edge and sketching some seaweed or bull kelp. The residency was very self directed, which means I could pretty much work on anything that I wanted. I didn’t come with a huge plan, since I wanted to open myself up to anything that caught my interest, whether that by walking around the forest to collect flora samples to sketch or just thinking about new ways of being. I will admit that I didn’t do nearly as much walking in the forest as I thought I would have, as cougars in the region are a very real thing and I just didn’t feel that good about being out alone.
 
