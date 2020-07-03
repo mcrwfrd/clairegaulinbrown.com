@@ -11,4 +11,4 @@ Coastal wolves are genetically distinct from the typical wolf that you imagine, 
 
 I'm only a layman ecologist, but by making these paintings I get to learn about all the wonderful relationships that creatures have with their environments, which in turn make me a better steward for our environment both locally and on a more global scale.
 
-![](/uploads/Coastal Ver2 web.jpg)
+![](/uploads/cgaulinbrown_fortheloveofthecoast.jpg)
