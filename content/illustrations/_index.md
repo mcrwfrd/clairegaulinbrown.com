@@ -7,3 +7,5 @@ type: post
 
 ---
 Please reach out to gaulinbrown@gmail.com If you have a project in mind, and tell me a little bit about how I can help!
+
+Select Clients: Bateman Foundation, Akela Surf, Makoha Farm, Shakti Rock Gym.
