@@ -3,7 +3,7 @@ alt = ""
 description = ""
 image = "/uploads/snakebirdillweb.jpg"
 thumb = "/uploads/birdsnakeillthumb.jpg"
-title = ""
+title = "title"
 [[illustrations]]
 alt = "Makoha Farm Flower CSA"
 description = "Unique wreath design for Makoha Farm. Used as promotional material for their Flower CSA. Each element of the wreath was inspired by veggies, flowers, and critters that make Makoha such a vibrant local farm."
